@@ -1,0 +1,3 @@
+[submodule "DrawInterpreter"]
+	path = DrawInterpreter
+	url = git@github.com:fjswhl/DrawInterpreter.git
